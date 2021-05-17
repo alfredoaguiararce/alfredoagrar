@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Alfredo Aguiar Arce
+title: Ing. Alfredo
 logo: # You can add own logo. For example '/images/logo.png'.
 description: I am a programmer and mechatronic engineer based in Mexico. I like to never stop learning.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -12,7 +12,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   avatar: '/images/01.jpg'
   name: Alfredo Aguiar Arce
-  job: Passionate programmer and mechatronic engineer.
+  job: Mechatronic engineer and programmer.
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
