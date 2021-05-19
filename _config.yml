@@ -4,7 +4,7 @@ title: Ing. Alfredo Aguiar
 logo: # You can add own logo. For example '/images/logo.png'.
 description: I am a programmer and mechatronic engineer based in Mexico. I like to never stop learning.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://alfredoagrar.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
