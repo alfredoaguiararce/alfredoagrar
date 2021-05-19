@@ -15,11 +15,9 @@ author:
   job: Mechatronic engineer and programmer.
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-twitter", link: "https://mobile.twitter.com/AlfredoAgrAr"}
+- {icon: "ion-logo-medium", link: "https://medium.com"}
+- {icon: "ion ion-logo-github", link: "https://github.com/alfredoaguiararce"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -33,8 +31,8 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: alfredoaguiararce@gmail.com # Add your email for contant form
+  description: How could I help you?
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -42,7 +40,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: alfredoagrar # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
