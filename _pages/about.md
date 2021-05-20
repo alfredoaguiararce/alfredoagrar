@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I'm Alfredo Aguiar Arce
+title: About
 permalink: /about/
 image: '/images/60.jpg'
 ---
