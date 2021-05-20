@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: I'm Alfredo Aguiar Arce
 permalink: /about/
 image: '/images/60.jpg'
 ---
@@ -17,5 +17,3 @@ When I studied my university degree in engineer, I managed to unite my passion f
 
 One of my interests in the future is to continue learning more about artificial intelligence and blockchain since from my point of view they are technologies of the future in the coming years. Well, after the progress that these technologies have had throughout my formative years, I believe more than before in the potential that all projects in these areas can have, to even develop new technologies.
 I am excited to imagine the future that with all the technological scope that we cannot even conceive in our imagination, and how I would like to contribute on the way to that future.
-
-<p><iframe src="https://www.youtube.com/embed/R3VMW6fxK6Y" frameborder="0" allowfullscreen></iframe></p>
