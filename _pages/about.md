@@ -5,33 +5,17 @@ permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hi, my name is Adam Howard. I'm a writer and photographer. I like being at the center of events, being free and enjoying every moment. Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum plurimas amico disputari.
+Hello, my name is Alfredo Aguiar Arce. I am a mechatronic engineer and programmer. I am familiar with languages like Python, C ++, Java, and JavaScript. I have experience with industrial applications such as PLC and assembly language for microprocessors.
 
-![My best moments]({{site.baseurl}}/images/70.jpg)
+I grew up in a small city with limited technology, it was not until my adolescence that I discovered the power of programming for me it was like learning to paint, since I could create things from nothing, simply using code, so I began to create Android applications for help me automate my homework.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan.
+Personally, these types of limitations in my city have led me to constantly continue learning online in a self-taught way on specialized platforms such as Platzi, being that I consider being self-taught as one of my best virtues, because I think that there are no impossible while it is available of an internet connection and an idea.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/71.jpg">
-    <img src="/images/72.jpg">
-    <img src="/images/73.jpg">
-  </div>
-  <em>My best moments / <a href="https://unsplash.com/@jakobowens1" target="_blank">Jakob Owens</a></em>
-</div>
+Once I finished my education as a programming technician, I did some freelance work, some of which I received offers to work in exchange for bitcoin that I rejected because I believed it was a scam ... probably having accepted those offers today I might have had a different learning path.
 
-1. Host is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
+When I studied my university degree in engineer, I managed to unite my passion for programming with my knowledge in the area of mechatronics. That is where I also discovered and practiced my aptitudes for the area of electronics, physics and automation.
 
+One of my interests in the future is to continue learning more about artificial intelligence and blockchain since from my point of view they are technologies of the future in the coming years. Well, after the progress that these technologies have had throughout my formative years, I believe more than before in the potential that all projects in these areas can have, to even develop new technologies.
+I am excited to imagine the future that with all the technological scope that we cannot even conceive in our imagination, and how I would like to contribute on the way to that future.
 
 <p><iframe src="https://www.youtube.com/embed/R3VMW6fxK6Y" frameborder="0" allowfullscreen></iframe></p>
-
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente non potest.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
-
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime.
