@@ -1,19 +1,17 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hello, my name is Alfredo Aguiar Arce. I am a mechatronic engineer and programmer. I am familiar with languages like Python, C ++, Java, and JavaScript. I have experience with industrial applications such as PLC and assembly language for microprocessors.
+Hola, mi nombre es Alfredo Aguiar Arce. Soy ingeniero mecatrónico y programador. Me siento familiarizado con lenguajes como Python, C ++, Java y JavaScript. Tengo experiencia con aplicaciones industriales como PLC y lenguaje ensamblador para microprocesadores.
 
-I grew up in a small city with limited technology, it was not until my adolescence that I discovered the power of programming for me it was like learning to paint, since I could create things from nothing, simply using code, so I began to create Android applications for help me automate my homework.
+Crecí en una ciudad pequeña con tecnología limitada, no fue hasta mi adolescencia en donde descubrí el poder de la programación ... fue como aprender a pintar, puesto que podía crear cosas de la nada, simplemente usando código, así comencé a crear aplicaciones Android para ayudarme a automatizar mis tareas escolares.
+Personalmente ese tipo de limitaciones en mi ciudad me ha llevado a constantemente seguir aprendiendo en línea de manera autodidacta en plataformas especializadas como lo es Platzi, siendo que considero el ser autodidacta como una de mis mejores virtudes, pues pienso que no hay imposibles mientras se disponga de una conexión a internet y una idea.
+Una vez terminada mi formación como técnico en programación realice algunos trabajos freelance algunos de los cuales llegue a recibir ofertas para trabajar a cambio de bitcoin mismas que rechazaba por el hecho de creer que se trataba de una estafa ... probablemente de haber aceptado esas ofertas hoy yo quizás hubiera tenido una ruta de aprendizaje diferente.
 
-Personally, these types of limitations in my city have led me to constantly continue learning online in a self-taught way on specialized platforms such as Platzi, being that I consider being self-taught as one of my best virtues, because I think that there are no impossible while it is available of an internet connection and an idea.
+Cuando estudie mi carrera universitaria logre unir mi pasión por la programación con mis conocimientos en el área de la mecatrónica. Siendo ahí donde también descubrí y practiqué mis aptitudes para el área de la electrónica y la automatización.
 
-Once I finished my education as a programming technician, I did some freelance work, some of which I received offers to work in exchange for bitcoin that I rejected because I believed it was a scam ... probably having accepted those offers today I might have had a different learning path.
-
-When I studied my university degree in engineer, I managed to unite my passion for programming with my knowledge in the area of mechatronics. That is where I also discovered and practiced my aptitudes for the area of electronics, physics and automation.
-
-One of my interests in the future is to continue learning more about artificial intelligence and blockchain since from my point of view they are technologies of the future in the coming years. Well, after the progress that these technologies have had throughout my formative years, I believe more than before in the potential that all projects in these areas can have, to even develop new technologies.
-I am excited to imagine the future that with all the technological scope that we cannot even conceive in our imagination, and how I would like to contribute on the way to that future.
+Uno de mis intereses a futuro es seguir aprendiendo más sobre inteligencia artificial y blockchain puesto que desde mi punto de vista son tecnologías del futuro en los próximos años. Pues luego del avance que estas tecnologías han tenido a lo largo de mis años de formación, creo más que antes en el potencial que pueden llegar a tener todos los proyectos de estas áreas, para desarrollar inclusive nuevas tecnologías.
+Me emociona el imaginar el futuro que con todos los alcances tecnológicos que ni siquiera aun podemos concebir en nuestra imaginación, y el cómo me gustaría aportar en el camino a ese futuro.

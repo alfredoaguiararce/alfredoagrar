@@ -2,7 +2,7 @@
 # General Site Settings
 title: Ing. Alfredo Aguiar
 logo: # You can add own logo. For example '/images/logo.png'.
-description: I am a programmer and mechatronic engineer based in Mexico. I like to never stop learning.
+description: Soy Ingeniero mecatrónico y técnico en programación.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.alfredoagrar.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,11 +12,11 @@ url: "https://www.alfredoagrar.com/" # The base hostname & protocol for your sit
 author:
   avatar: '/images/01.jpg'
   name: Alfredo Aguiar Arce
-  job: Mechatronic engineer and programmer.
+  job: Ing. mecatrónico & técnico en programación.
 
 social:
 - {icon: "ion-logo-twitter", link: "https://mobile.twitter.com/AlfredoAgrAr"}
-- {icon: "ion-logo-medium", link: "https://medium.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/alfredoaguiararce/"}
 - {icon: "ion ion-logo-github", link: "https://github.com/alfredoaguiararce"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -32,7 +32,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 # Contact Settings
 contact:
   email: alfredoaguiararce@gmail.com # Add your email for contant form
-  description: How could I help you?
+  description: ¿Como podría ayudarte?
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
