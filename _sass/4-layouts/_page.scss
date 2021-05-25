@@ -56,3 +56,9 @@
     border-bottom: 2px solid $brand-color;
   }
 }
+
+.post__content {
+  p {
+    text-align: justify;
+  }
+}
