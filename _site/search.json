@@ -1,12 +1,21 @@
 [
   
     {
-      "title"    : "It is never too late to be what you might have been",
+      "title"    : "Metodo de Denavit Hartenberg en Python.",
+      "category" : "",
+      "tags"     : "Robotica and Python",
+      "url"      : "/que-es-denavit",
+      "date"     : "May 28, 2021",
+      "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    } ,
+  
+    {
+      "title"    : "Post 1",
       "category" : "",
       "tags"     : "Dreams and Desert",
       "url"      : "/It-is-never-too-late-to-be-what-you-might-have-been",
-      "date"     : "Oct 29, 2018",
-      "image": "/images/35.jpg"
+      "date"     : "May 28, 2021",
+      "image": "https://images.pexels.com/photos/1342460/pexels-photo-1342460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     } 
   
 ]

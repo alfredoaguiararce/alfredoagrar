@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  It is never too late to be what you might have been
-date:   2018-10-29 15:01:35 +0300
-image:  '/images/35.jpg'
+title:  Post 1
+date:   2021-05-29 0:49:00 +0300
+image:  'https://images.pexels.com/photos/1342460/pexels-photo-1342460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'
 tags:   [Dreams, Desert]
 featured: True
 ---

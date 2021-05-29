@@ -20,6 +20,12 @@
     a {
       outline: none;
     }
+    h2 {
+      color : #ffffff;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
   } 
   .slider-buttons {
     position: relative;
