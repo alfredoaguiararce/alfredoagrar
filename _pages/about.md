@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de mi
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/01.jpeg'
 ---
 
 👋 Hola, mi nombre es Alfredo Aguiar Arce.
