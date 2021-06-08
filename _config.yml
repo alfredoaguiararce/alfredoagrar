@@ -10,7 +10,7 @@ url: "http://www.alfredoagrar.com" # The base hostname & protocol for your site,
 #-------------------------------
 # Author Settings
 author:
-  avatar: '/images/01.jpg'
+  avatar: '/images/01.jpeg'
   name: Alfredo Aguiar Arce
   job: Ing. mecatrónico & técnico en programación.
 
