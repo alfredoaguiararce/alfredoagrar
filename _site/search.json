@@ -4,9 +4,9 @@
       "title"    : "¡Comencé a escribir este blog!",
       "category" : "",
       "tags"     : "Blog, Tecnologia, and Branding",
-      "url"      : "/blog-con-jekyll",
+      "url"      : "/comence-a-escribir-este-blog",
       "date"     : "Jul 2, 2021",
-      "image": "../images/blog_image.jpg"
+      "image": "/images/blog_image.jpg"
     } 
   
 ]

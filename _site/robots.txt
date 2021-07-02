@@ -1,1 +1,1 @@
-Sitemap: http://www.alfredoagrar.com/sitemap.xml
+Sitemap: https://www.alfredoagrar.com/sitemap.xml
