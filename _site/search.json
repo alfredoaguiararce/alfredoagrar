@@ -1,21 +1,12 @@
 [
   
     {
-      "title"    : "Metodo de Denavit Hartenberg en Python.",
+      "title"    : "¡Comencé a escribir este blog!",
       "category" : "",
-      "tags"     : "Robotica and Python",
-      "url"      : "/que-es-denavit",
-      "date"     : "May 28, 2021",
-      "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    } ,
-  
-    {
-      "title"    : "Post 1",
-      "category" : "",
-      "tags"     : "Dreams and Desert",
-      "url"      : "/It-is-never-too-late-to-be-what-you-might-have-been",
-      "date"     : "May 28, 2021",
-      "image": "https://images.pexels.com/photos/1342460/pexels-photo-1342460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "tags"     : "Blog, Tecnologia, and Branding",
+      "url"      : "/blog-con-jekyll",
+      "date"     : "Jul 2, 2021",
+      "image": "../images/blog_image.jpg"
     } 
   
 ]
