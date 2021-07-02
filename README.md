@@ -6,7 +6,7 @@ This is my blog develop in Jeckyll whit the Bonso theme, Bonso is a minimal, mod
 
 ### Visit my blog 
 
-Check my blog in action [here.](http://alfredoagrar.com/)
+Check my blog in action [here.](http://www.alfredoagrar.com/)
 
 * * *
 
