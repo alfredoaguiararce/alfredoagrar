@@ -2,7 +2,7 @@
 layout: post
 title:  ¡Comencé a escribir este blog!
 date:   2021-07-02 3:00:00 -0600
-image:  '../images/blog_image.jpg'
+image:  '/images/blog_image.jpg'
 tags:   [Blog, Tecnologia, Branding]
 featured: True
 ---
