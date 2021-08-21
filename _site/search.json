@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "¿Que son las redes neuronales artificiales?",
+      "category" : "",
+      "tags"     : "RedesNeuronales, Tecnologia, and Perceptron",
+      "url"      : "/redes-neuronales",
+      "date"     : "Aug 21, 2021",
+      "image": "/images/red_dots_image.jpg"
+    } ,
+  
+    {
       "title"    : "¡Comencé a escribir este blog!",
       "category" : "",
       "tags"     : "Blog, Tecnologia, and Branding",
