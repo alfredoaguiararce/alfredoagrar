@@ -1,9 +1,18 @@
 [
   
     {
+      "title"    : "¿Cómo piensan las computadoras?",
+      "category" : "",
+      "tags"     : "Tecnologia and Inteligencia&nbspArtificial",
+      "url"      : "/como-piensan-las-computadoras",
+      "date"     : "Aug 30, 2021",
+      "image": "/images/rubik.jpg"
+    } ,
+  
+    {
       "title"    : "¿Que son las redes neuronales artificiales?",
       "category" : "",
-      "tags"     : "RedesNeuronales, Tecnologia, and Perceptron",
+      "tags"     : "Inteligencia&nbspArtificial, Redes&nbspNeuronales, Tecnologia, and Perceptron",
       "url"      : "/redes-neuronales",
       "date"     : "Aug 21, 2021",
       "image": "/images/red_dots_image.jpg"

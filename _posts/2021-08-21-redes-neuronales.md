@@ -3,7 +3,7 @@ layout: post
 title:  ¿Que son las redes neuronales artificiales?
 date:   2021-08-21 00:00:00 -0600
 image:  '/images/red_dots_image.jpg'
-tags:   [RedesNeuronales, Tecnologia, Perceptron]
+tags:   [Inteligencia&nbspArtificial, Redes&nbspNeuronales, Tecnologia, Perceptron]
 featured: True
 ---
 
