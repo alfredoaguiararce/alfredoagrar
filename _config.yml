@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
-title: Ing. Alfredo Aguiar
+title: AlfredoAgrAr
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Soy Ingeniero mecatrónico y técnico en programación.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://www.alfredoagrar.com" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://alfredoagrar.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
