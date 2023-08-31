@@ -2,7 +2,7 @@
 # General Site Settings
 title: AlfredoAgrAr
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Soy Ingeniero mecatrónico y técnico en programación.
+description: Soy Ingeniero mecatrónico y backend developer.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://alfredoagrar.com" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,9 +10,9 @@ url: "http://alfredoagrar.com" # The base hostname & protocol for your site, e.g
 #-------------------------------
 # Author Settings
 author:
-  avatar: '/images/01.jpeg'
+  avatar: '/images/01.jpg'
   name: Alfredo Aguiar Arce
-  job: Ing. mecatrónico & técnico en programación.
+  job: Backend Developer.
 
 social:
 - {icon: "ion-logo-twitter", link: "https://mobile.twitter.com/AlfredoAgrAr"}
